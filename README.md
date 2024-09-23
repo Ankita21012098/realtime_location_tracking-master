@@ -23,7 +23,7 @@ This project is a web application designed for real-time location tracking and m
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/faisal-shohag/realtime_location_tracking.git
+    git clone https://github.com/Ankita21012098/realtime_location_tracking-master
     ```
 2. Navigate to the project directory:
     ```bash
@@ -42,30 +42,5 @@ This project is a web application designed for real-time location tracking and m
     ```
 2. Open your web browser and go to `http://localhost:3000` to view the application.
 
-## Project Structure
 
-- `server.js` - Main server file that sets up the Express server and WebSocket.
-- `public/` - Directory containing the client-side code.
-  - `index.html` - Main HTML file.
-  - `style.css` - CSS file for styling.
-  - `app.js` - JavaScript file that handles the client-side WebSocket and map functionality.
-
-## Demo
-
-You can view a live demo of the project [here](https://locationreal.onrender.com/). *(Please note that it may take a few seconds for the server to wake up.)*
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a pull request or open an issue to discuss improvements or bugs.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-- **Author:** Faisal Shohag
-- **Email:** faisalshohagprog@gmail.com
-- **LinkedIn:** [faisal-shohag](http://linkedin.com/in/faisal-shohag)
-- **GitHub:** [faisal-shohag](http://github.com/faisal-shohag)
 
